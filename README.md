@@ -1,5 +1,9 @@
 # Class F / Class $\text{F}^{-1}$ Multi-Harmonic Matching Network Synthesis Tool
 
+[![DOI](https://zenodo.org/badge/1394778314.svg)](https://doi.org/10.5281/zenodo.23456609)
+
+---
+
 A fast, exact, and deterministic C-based tool for synthesizing multi-harmonic matching networks (ideal lines) for Class F and Class $\text{F}^{-1}$ power amplifiers (PAs) without relying on numerical CAD optimization.
 
 ---
