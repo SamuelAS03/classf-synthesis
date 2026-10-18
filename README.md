@@ -50,7 +50,7 @@ cmake --build build
 This software was developed by Samuel Santos as part of his Master's Thesis in Electronics and Telecommunications Engineering at the Department of Electronics, Telecommunications and Informatics (DETI), University of Aveiro, Portugal.
 
 If you use this tool or methodology in your academic work, please cite the associated paper:
-S. Santos et al., **"An Analytical Harmonic-Matching Synthesis Tool for $\text{Class-F/F}^{-1}$ PAs: Design and Experimental Validation"**, to submit.
+S. Santos et al., **"A 3.7 GHz Class-F Power Amplifier Designed using an Algorithmic Harmonic Matching"**, to submit.
 
 ---
 ---
